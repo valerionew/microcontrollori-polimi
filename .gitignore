@@ -19,7 +19,9 @@ Debug
 *_callertable.txt
 *.user.dic
 *.asm
+*.asm.ini
 *.c.ini
 *.h.ini
 *.cp
 *.mcl
+*.mcpigroup
