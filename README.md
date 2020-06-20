@@ -6,16 +6,16 @@ Missing
 ## LAB 01 - GPIO
 Missing
 ## LAB 02 - Interrupt
-https://github.com/5N44P/microcontrollori-polimi/tree/master/20-03-2019
+https://github.com/valerionew/microcontrollori-polimi/tree/master/20-03-2019
 
 ## LAB 03 - Timer 0 & LCD
-https://github.com/5N44P/microcontrollori-polimi/tree/master/03-04-2019
+https://github.com/valerionew/microcontrollori-polimi/tree/master/03-04-2019
 
 ## LAB 04 - Sonar CCP
-https://github.com/5N44P/microcontrollori-polimi/tree/master/10-04-2019
+https://github.com/valerionew/microcontrollori-polimi/tree/master/10-04-2019
 
 ## LAB 05 - Esercizio
-https://github.com/5N44P/microcontrollori-polimi/tree/master/08-05-2019
+https://github.com/valerionew/microcontrollori-polimi/tree/master/08-05-2019
 
 ##### Step 0
 - Kitt 2.0: Implement in the PORTD the Kitt 2.0 effect with fixed delay between the transitions
@@ -38,10 +38,10 @@ The measure must be shown only when a push button (RA5) is pressed (with 1 s of 
 2. Stopwatch Precision: Enhance the stopwatch precision
 
 ## LAB 06 - ADC
-https://github.com/5N44P/microcontrollori-polimi/tree/master/15-05-2019
+https://github.com/valerionew/microcontrollori-polimi/tree/master/15-05-2019
 
 ## LAB 07 - PWM
-https://github.com/5N44P/microcontrollori-polimi/tree/master/29-05-2019
+https://github.com/valerionew/microcontrollori-polimi/tree/master/29-05-2019
 
 ## LAB 08 - Tema D'Esame
-https://github.com/5N44P/microcontrollori-polimi/tree/master/05-06-2019-temadesame
+https://github.com/valerionew/microcontrollori-polimi/tree/master/05-06-2019-temadesame
